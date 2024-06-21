@@ -1,0 +1,52 @@
+table{
+	color: white;
+	font-size: 350px;
+	width: 100%;
+	margin: 50px auto;
+	border-collapse: collapse;
+}
+body{
+	background-color: darkgrey;
+}
+#june{
+	background-color: rgba(255, 0, 0, 1);
+}
+#july{
+	background-color: rgba(255, 184, 0, 1);
+}
+#august{
+	background-color: rgba(250, 255, 0, 1);
+}
+#september{
+	background-color: rgba(5, 255, 0, 1);
+}
+th{
+	text-align: center;
+}
+td{
+	text-align: center;
+	border: 3px solid black;
+	aspect-ratio: 1/1;
+	height: 100px;
+	width: 50px;
+	box-sizing: border-box;
+}
+h1{
+	text-align: center;
+	font-size: 400px;
+}
+.blackX{
+	color: black;
+	opacity: 1;
+}
+img{
+	width: 50%;
+	position: relative;
+	bottom: 190px;
+	opacity: 0;
+}
+p{
+	margin: auto auto;
+	position: relative;
+	top: 170px;
+}
